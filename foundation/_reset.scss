@@ -77,11 +77,10 @@ audio,
 video {
   margin: 0;
   padding: 0;
-  border: 0;
-  outline: 0;
   font-size: 100%;
   vertical-align: baseline;
   background: transparent;
+  outline: 0;
 }
 
 body {
@@ -129,17 +128,17 @@ a {
 
 /* change colours to suit your needs */
 ins {
-  background-color: #ff9;
   color: #000;
   text-decoration: none;
+  background-color: #ff9;
 }
 
 /* change colours to suit your needs */
 mark {
-  background-color: #ff9;
   color: #000;
-  font-style: italic;
   font-weight: bold;
+  font-style: italic;
+  background-color: #ff9;
 }
 
 del {
@@ -161,10 +160,10 @@ table {
 hr {
   display: block;
   height: 1px;
-  border: 0;
-  border-top: 1px solid #ccc;
   margin: 1em 0;
   padding: 0;
+  border: 0;
+  border-top: 1px solid #ccc;
 }
 
 input,

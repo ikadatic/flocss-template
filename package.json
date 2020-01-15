@@ -1,0 +1,22 @@
+{
+  "name": "flocss-template",
+  "version": "1.0.0",
+  "description": "FLOCSS template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-ikadatic:ikadatic/flocss-template.git"
+  },
+  "author": "ikadatic",
+  "license": "ISC",
+  "devDependencies": {
+    "stylelint": "^13.0.0",
+    "stylelint-config-rational-order": "^0.1.2",
+    "stylelint-config-standard": "^19.0.0",
+    "stylelint-order": "^4.0.0",
+    "stylelint-scss": "^3.13.0"
+  }
+}
