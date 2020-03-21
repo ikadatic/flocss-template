@@ -13,10 +13,10 @@
   "author": "ikadatic",
   "license": "ISC",
   "devDependencies": {
-    "stylelint": "^13.0.0",
+    "stylelint": "^13.2.1",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^19.0.0",
     "stylelint-order": "^4.0.0",
-    "stylelint-scss": "^3.13.0"
+    "stylelint-scss": "^3.16.0"
   }
 }
